@@ -1,19 +1,15 @@
+import pandas as pd
 import requests
-path = "/media/user/A/github/python/image-downloader-from-csv/bkash_banner2.xlsx"
-with open(path, 'r') as file1:
-    text = file1.read()
-    all_links = [i.strip() for i in file1.readlines()]
-    j = 0
-    imagename = f"Image{j}.jpg"
-    for link in all_links:
-        result = requests.get(link)
-        if result.status_code == 200:
-            try:
-                image = result.raw.read()
-                open(imagename, "wb").write(image)
-            except Exception:
-                pass
-        else:
-            pass
-        j += 1
 
+df = pd.read_csv('bkash_banner3.csv')
+
+image_url = df['Url'].head()
+
+for img in image_url:
+     file_name = img.split('/')[-1]
+     print("Downloading file:%s"%file_name)
+     r = requests.get(img, stream=True)
+     
+     with open(file_name, 'wb') as f:
+            for chunk in r:
+                  f.write(chunk)
