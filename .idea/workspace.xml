@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dbc8df4-e6f9-425a-8e4a-040cd1cf0066" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20120720_fb680a57416b8d16bad2kO1kOUIzkNxO.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outletimages%2F%2B8801713254678%2B8801975756699_JPEG_20200116_120109_36156792503320574286603.jpg?alt=media&amp;token=c032764e-671c-4d6d-a7aa-7fb76018e376" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/20120720_fb680a57416b8d16bad2kO1kOUIzkNxO.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/outletimages%2F%2B8801713254678%2B8801975756699_JPEG_20200116_120109_36156792503320574286603.jpg?alt=media&amp;token=c032764e-671c-4d6d-a7aa-7fb76018e376" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.~lock.bkash_banner3.csv#" beforeDir="false" afterPath="$PROJECT_DIR$/.~lock.bkash_banner3.csv#" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bkash_banner3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/bkash_banner3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/download-images-from-multiple-urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/download-all-images-from-multiple-urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20120720_fb680a57416b8d16bad2kO1kOUIzkNxO.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/download-images-from-url-list.py" beforeDir="false" afterPath="$PROJECT_DIR$/download-images-from-url-list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/read-multiple-column.py" beforeDir="false" afterPath="$PROJECT_DIR$/read-multiple-column.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/read-one-column.py" beforeDir="false" afterPath="$PROJECT_DIR$/read-one-column.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outletimages%2F%2B8801713254678%2B8801975756699_JPEG_20200116_120109_36156792503320574286603.jpg?alt=media&amp;token=c032764e-671c-4d6d-a7aa-7fb76018e376" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,32 +189,21 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1276" height="173" key="GridCell.Tab.0.bottom" timestamp="1579427791553">
+    <state width="1276" height="173" key="GridCell.Tab.0.bottom" timestamp="1579428498515">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="173" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579427791553" />
-    <state width="1276" height="173" key="GridCell.Tab.0.center" timestamp="1579427791552">
+    <state width="1276" height="173" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579428498515" />
+    <state width="1276" height="173" key="GridCell.Tab.0.center" timestamp="1579428498515">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="173" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579427791552" />
-    <state width="1276" height="173" key="GridCell.Tab.0.left" timestamp="1579427791551">
+    <state width="1276" height="173" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579428498515" />
+    <state width="1276" height="173" key="GridCell.Tab.0.left" timestamp="1579428498514">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="173" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579427791551" />
-    <state width="1276" height="173" key="GridCell.Tab.0.right" timestamp="1579427791552">
+    <state width="1276" height="173" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579428498514" />
+    <state width="1276" height="173" key="GridCell.Tab.0.right" timestamp="1579428498515">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="173" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579427791552" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/download-images-from-url-list.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1276" height="173" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579428498515" />
   </component>
 </project>
