@@ -9,7 +9,6 @@ image_url = [
   "https://vision-images-store.s3.amazonaws.com/internship/zipper/view_1/b5804b834f2945dabd87892df695f5b2.jpg",
   "https://vision-images-store.s3.amazonaws.com/internship/zipper/view_1/c1a05e6fa0b24a2490b10b80760dae83.jpg"
 ]
-
 for img in image_url:
  file_name = img.split('/')[-1]
  print("Downloading file:%s"%file_name)
